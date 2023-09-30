@@ -1,0 +1,81 @@
+.RightSide {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+
+input {
+    border: none;
+    width: 200px;
+    height: 50px;
+    outline: none;
+}
+
+.search {
+    -webkit-text-size-adjust: 100%;
+    -webkit-box-direction: normal;
+    box-sizing: border-box;
+    font: inherit;
+    overflow: visible;
+    text-transform: none;
+    margin: 0;
+    padding: 0;
+    outline: none;
+    transition: all 0.3s ease;
+    -webkit-appearance: button;
+    border: none;
+    border-radius: 0;
+    max-width: 100%;
+    touch-action: manipulation;
+    text-decoration: none;
+    vertical-align: top;
+    white-space: nowrap;
+    display: block;
+    width: 50px;
+    line-height: 50px;
+    background: #ff5e0d;
+    color: #fff;
+    text-align: center;
+    cursor: pointer;
+    background-color: #000000;
+}
+
+.diagram {
+    -webkit-text-size-adjust: 100%;
+    font-family: 'Fira Sans';
+    font-size: 14px;
+    font-weight: normal;
+    color: #000;
+    -webkit-box-direction: normal;
+    text-align: right;
+    box-sizing: border-box;
+    display: inline-block;
+    position: relative;
+    vertical-align: bottom;
+    width: 50px;
+    height: 50px;
+}
+
+form {
+    display: flex;
+    flex-direction: row;
+    align-items: row;
+}
+
+
+.person {
+    -webkit-text-size-adjust: 100%;
+    font-family: 'Fira Sans';
+    font-size: 14px;
+    font-weight: normal;
+    color: #000;
+    -webkit-box-direction: normal;
+    text-align: right;
+    box-sizing: border-box;
+    display: inline-block;
+    position: relative;
+    vertical-align: bottom;
+    height: 50px;
+    width: 50px;
+}

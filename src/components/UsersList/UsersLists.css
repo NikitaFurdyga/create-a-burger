@@ -1,0 +1,19 @@
+.p15{
+    font-size: 23px;
+}
+.p16{
+    font-size: 25px;
+}
+.logo10{
+    width:200px;
+    height: 200px;
+}
+.b1{
+    height: 30px;
+    width: 50%;
+    background-color: #cbcbd1;;
+    border-radius: 5px;
+}
+.b1:hover{
+    color: #B79B7E;
+}

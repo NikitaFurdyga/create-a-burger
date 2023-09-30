@@ -1,0 +1,26 @@
+.Header {
+    color: #000;
+    padding-top: 30px;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    height: 91px;
+}
+
+img {
+    height: 57px;
+    width: 150px;
+}
+
+.item {
+    width: 310;
+    height: 26;
+}
+
+.cost {
+    height: 24px;
+    width: 76px;
+}

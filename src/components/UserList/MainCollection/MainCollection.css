@@ -1,0 +1,45 @@
+.MainCollection {
+    width: 621px;
+    height: 1505px;
+    font-family: 'Fira Sans';
+    font-size: 14px;
+    font-weight: normal;
+    color: #000000;
+    box-sizing: border-box;
+    padding-left: 20px;
+    padding-right: 20px;
+    max-width: 66.66667%;
+    flex-basis: 66.66667%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom: 200px;
+}
+
+.Subsidiary {
+    width: 250px;
+    height: 250px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    padding: 30px;
+    object-fit: contain; 
+}
+
+h1 {
+    font-family: 'Fira Sans';
+    color: #fff;
+    box-sizing: border-box;
+    font-size: 30px;
+    margin: 0 0 20px 0;
+    padding: 25px 25px 0;
+}
+
+img {
+    height: 200px;
+    width: 100px;
+}

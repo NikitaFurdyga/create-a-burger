@@ -1,0 +1,44 @@
+.Navbar {
+    width: 310px;
+    height: 1505px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.NavbarTop {
+    width: 290px;
+    height: 244px;
+    font-family: 'Fira Sans';
+    font-size: 14px;
+    font-weight: normal;
+    background: #ff5e0d;
+    color: #fff;
+    background-color: #ED4075;
+}
+
+.NavbarBottom {
+    width: 290px;
+    height: 510px;
+    font-family: 'Fira Sans';
+    font-size: 14px;
+    font-weight: normal;
+    color: #000000;
+    padding: 40px 20px 20px 20px;
+}
+
+span {
+    font-family: 'Fira Sans';
+    list-style: none;
+    color: inherit;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: 300;
+    box-sizing: border-box;
+}
+
+.Roster {
+    display: flex;
+    flex-direction: column;
+    margin-left: 25px;
+}

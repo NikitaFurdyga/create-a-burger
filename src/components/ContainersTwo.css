@@ -1,0 +1,31 @@
+.block4{
+    width: 100%;
+    height: 53px;
+}
+.p12{
+    font-size: 33px;
+    margin-left: 35px;
+}
+.p13{
+    margin-top: -76px;
+    font-size: 33px;
+    margin-left: 250px;
+}
+.block5{
+    width: 100%;
+    height: 60px;
+}
+.p14{
+    margin-top: -76px;
+    font-size: 33px;
+    margin-left: 520px;
+}
+.p14:hover{
+    color: #B79B7E;
+}
+.p13:hover{
+    color: #B79B7E;
+}
+.p12:hover{
+    color: #B79B7E;
+}
